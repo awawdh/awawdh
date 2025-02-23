@@ -7,7 +7,6 @@
 - 🏗️ **Network Engineer** with a passion for coding & security
 - 📚 Always learning & improving my skills
 - ⚡ Love problem-solving & optimizing systems
-- 🌍 From the heart of Kfaryouba, coding my way to global impact! 😎
 
 ---
 
